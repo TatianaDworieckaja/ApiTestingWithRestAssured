@@ -52,3 +52,23 @@
 10:38:21.183 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was updated *******
 10:38:21.183 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Deleting user *******
 10:38:21.668 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was deleted *******
+16:24:22.579 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Initial testdata is creating *******
+16:24:22.694 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Initial testdata was created *******
+16:24:22.703 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Creating user *******
+16:24:25.055 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was created *******
+16:24:25.064 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Reading user *******
+16:24:25.888 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User info is displayed *******
+16:24:25.891 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Updating user *******
+16:24:26.453 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was updated *******
+16:24:26.453 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Deleting user *******
+16:24:26.967 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was deleted *******
+16:24:42.493 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Initial testdata is creating *******
+16:24:42.583 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Initial testdata was created *******
+16:24:42.591 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Creating user *******
+16:24:44.519 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was created *******
+16:24:44.527 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Reading user *******
+16:24:45.058 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User info is displayed *******
+16:24:45.060 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Updating user *******
+16:24:45.653 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was updated *******
+16:24:45.654 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* Deleting user *******
+16:24:46.172 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests2 - ******* User was deleted *******
