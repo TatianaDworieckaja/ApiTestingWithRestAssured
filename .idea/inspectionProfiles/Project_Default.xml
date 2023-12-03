@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="561613e5-634e-3176-90f9-8c2db9ecab90" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="9ce5f8e7-6b7c-3350-90fb-f7d19138b257" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CastCanBeRemovedNarrowingVariableType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantConditions" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="EmptyStatementBody" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="m_reportEmptyBlocks" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <searchConfiguration name="Модификаторы доступа на методах" problemDescriptor="Модификатор доступа обязан быть при создании методов" text="class $Class$ {&#10;    @Modifier(&quot;packageLocal&quot;) $ReturnType$ $Method$ ($ParameterType$ $Parameter$);&#10;}" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="Class" script="&quot;!__context__.interface &amp;&amp; !__context__.enum &amp;&amp; !__context__.record&quot;" within="" contains="" />
+        <constraint name="ReturnType" within="" contains="" />
+        <constraint name="Method" withinHierarchy="true" maxCount="2147483647" target="true" within="" contains="" />
+        <constraint name="ParameterType" within="" contains="" />
+        <constraint name="Parameter" minCount="0" maxCount="2147483647" within="" contains="" />
+      </searchConfiguration>
+      <searchConfiguration name="Модификаторы доступа на полях" problemDescriptor="Модификатор доступа обязан быть при создании полей" text="class $Class$ {&#10;    @Modifier(&quot;packageLocal&quot;) $FieldType$ $Field$ = $Init$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default">
+        <constraint name="__context__" within="" contains="" />
+        <constraint name="Class" script="&quot;!__context__.interface &amp;&amp; !__context__.enum &amp;&amp; !__context__.record&quot;" within="" contains="" />
+        <constraint name="FieldType" within="" contains="" />
+        <constraint name="Field" withinHierarchy="true" maxCount="2147483647" target="true" within="" contains="" />
+        <constraint name="Init" minCount="0" within="" contains="" />
+      </searchConfiguration>
+    </inspection_tool>
+    <inspection_tool class="SuspiciousIndentAfterControlStatement" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="unused" enabled="true" level="WEAK WARNING" enabled_by_default="true" checkParameterExcludingHierarchy="false">
+      <option name="LOCAL_VARIABLE" value="true" />
+      <option name="FIELD" value="true" />
+      <option name="METHOD" value="true" />
+      <option name="CLASS" value="true" />
+      <option name="PARAMETER" value="true" />
+      <option name="REPORT_PARAMETER_FOR_PUBLIC_METHODS" value="true" />
+      <option name="ADD_MAINS_TO_ENTRIES" value="true" />
+      <option name="ADD_APPLET_TO_ENTRIES" value="true" />
+      <option name="ADD_SERVLET_TO_ENTRIES" value="true" />
+      <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
