@@ -8,7 +8,8 @@
 
     <test thread-count="5" name="PetTests">
         <classes>
-            <class name="tatiana_dworieckaja.petstore.test.UserTests"/>
+            <!--class name="tatiana_dworieckaja.petstore.test.UserTests"/-->
+            <class name="tatiana_dworieckaja.petstore.test.UserTests2"/>
             <!-- <class name="DDTests"/>  -->
         </classes>
     </test>
