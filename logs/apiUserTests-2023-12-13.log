@@ -1,0 +1,89 @@
+22:06:49.401 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+12:26:42.380 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+12:26:42.567 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+12:26:42.583 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+13:29:03.460 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+13:29:03.580 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+13:29:03.596 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+13:39:27.326 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+13:39:27.438 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+13:39:27.454 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+13:42:53.072 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+13:42:53.199 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+13:42:53.215 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+14:25:37.277 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:25:37.346 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:32:06.616 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:32:06.697 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:33:18.973 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:33:19.053 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:34:45.632 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:34:45.696 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:35:20.592 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:35:20.664 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:35:20.672 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+14:36:44.537 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:36:44.609 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:38:14.773 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:38:14.854 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:39:22.651 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:39:22.727 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:43:10.693 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:43:10.765 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:43:43.389 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata is creating *******
+14:43:43.523 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata was created *******
+14:43:43.535 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Reading user *******
+14:43:57.635 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata is creating *******
+14:43:57.731 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata was created *******
+14:43:57.739 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Creating user *******
+14:43:59.738 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* User was created *******
+14:44:05.521 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata is creating *******
+14:44:05.633 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata was created *******
+14:44:05.641 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Updating user *******
+14:44:07.388 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* User was updated *******
+14:44:52.048 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata is creating *******
+14:44:52.144 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata was created *******
+14:44:52.153 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Creating user *******
+14:44:54.216 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* User was created *******
+14:45:14.114 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata is creating *******
+14:45:14.210 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Initial testdata was created *******
+14:45:14.219 [main] INFO  tatiana_dworieckaja.petstore.test.UserTests - ******* Reading user *******
+14:47:17.691 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:47:17.771 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:48:55.524 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:48:55.595 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:56:38.877 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:56:38.957 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+14:56:38.965 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+14:58:09.792 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+14:58:09.864 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:01:40.309 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:01:40.388 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:02:02.173 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:02:02.245 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:02:02.253 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:04:33.145 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:04:33.216 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:04:33.225 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:05:34.735 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:05:34.815 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:05:34.822 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:06:26.720 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:06:26.793 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:06:26.801 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:17:57.159 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:17:57.239 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:17:57.247 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:18:11.036 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:18:11.108 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:18:11.116 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:22:01.207 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:22:01.288 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:22:01.297 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:22:33.286 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:22:33.358 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:22:33.374 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Creating pet *******
+15:25:53.322 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:25:53.392 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******
+15:26:12.646 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata is creating *******
+15:26:12.722 [main] INFO  tatiana_dworieckaja.petstore.test.PetTests - ******* Initial testdata was created *******

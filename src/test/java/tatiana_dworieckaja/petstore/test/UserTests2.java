@@ -12,8 +12,8 @@ import tatiana_dworieckaja.petstore.endpoints.UserEndPoints2;
 import tatiana_dworieckaja.petstore.payload.User;
 
 public class UserTests2 {
-    User userPayLoad;
-    Faker faker;
+    public User userPayLoad;
+    public Faker faker;
     public Logger logger;
 
     @BeforeClass

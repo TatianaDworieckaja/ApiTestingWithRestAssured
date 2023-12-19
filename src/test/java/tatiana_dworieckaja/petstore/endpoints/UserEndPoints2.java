@@ -23,7 +23,7 @@ public class UserEndPoints2 {
                 .accept(ContentType.JSON)
                 .body(payload)
                 .when()
-                .post(getUrl().getString("post_url"));
+                .post(getUrl().getString("post_pet_url"));
 
     }
 
