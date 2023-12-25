@@ -1,4 +1,4 @@
-package tatiana_dworieckaja.petstore.payload;
+package tatiana_dworieckaja.petstore.payload.userPayLoad;
 
 public class User {
 

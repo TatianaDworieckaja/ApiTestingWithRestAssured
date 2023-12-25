@@ -6,13 +6,18 @@ import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class Specifications {
+
     public static RequestSpecification requestSpec(){
         return new RequestSpecBuilder()
                 //.setBaseUri(url)
                 .setContentType(ContentType.JSON)
+                .setAccept(ContentType.JSON)
                 .build();
+
     }
 
     public static ResponseSpecification responseSpecOK200(){
@@ -20,13 +25,14 @@ public class Specifications {
                 .expectStatusCode(200)
                 .build();
     }
-    public static ResponseSpecification responseSpecError400(){
+    public ResponseSpecification responseSpecError400(){
         return new ResponseSpecBuilder()
                 .expectStatusCode(400)
                 .build();
     }
 
-    public static void installSpecification(RequestSpecification request, ResponseSpecification response){
-        RestAssured.requestSpecification = request;
-        RestAssured.responseSpecification = response;
-    }}
+   public static void installSpecification(RequestSpecification request, ResponseSpecification response){
+       RestAssured.requestSpecification = request;
+       RestAssured.responseSpecification = response;
+   }
+}

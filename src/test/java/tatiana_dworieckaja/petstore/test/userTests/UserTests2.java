@@ -1,4 +1,4 @@
-package tatiana_dworieckaja.petstore.test;
+package tatiana_dworieckaja.petstore.test.userTests;
 
 import com.github.javafaker.Faker;
 import io.restassured.response.Response;
@@ -7,9 +7,8 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import tatiana_dworieckaja.petstore.endpoints.UserEndPoints;
 import tatiana_dworieckaja.petstore.endpoints.UserEndPoints2;
-import tatiana_dworieckaja.petstore.payload.User;
+import tatiana_dworieckaja.petstore.payload.userPayLoad.User;
 
 public class UserTests2 {
     public User userPayLoad;

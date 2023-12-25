@@ -1,9 +1,9 @@
-package tatiana_dworieckaja.petstore.test;
+package tatiana_dworieckaja.petstore.test.userTests;
 
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 import tatiana_dworieckaja.petstore.endpoints.UserEndPoints;
-import tatiana_dworieckaja.petstore.payload.User;
+import tatiana_dworieckaja.petstore.payload.userPayLoad.User;
 import tatiana_dworieckaja.petstore.utilities.DataProviders;
 
 public class DDTests {

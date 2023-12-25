@@ -3,7 +3,7 @@ package tatiana_dworieckaja.petstore.endpoints;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import tatiana_dworieckaja.petstore.payload.User;
+import tatiana_dworieckaja.petstore.payload.userPayLoad.User;
 
 import java.util.ResourceBundle;
 
